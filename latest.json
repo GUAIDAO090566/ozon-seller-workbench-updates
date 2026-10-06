@@ -1,10 +1,11 @@
 {
   "version": "2.6.0",
-  "download_url": "",
+  "download_url": "https://github.com/GUAIDAO090566/ozon-seller-workbench-updates/releases/download/v2.6.0/Ozon_Seller_._v2.6.0_.1.zip",
   "published_at": "2026-10-06",
   "notes": [
     "新增免费更新中心",
-    "支持自动检查新版本",
-    "支持更新日志和版本提醒"
+    "支持 GitHub 检查新版本",
+    "支持更新日志",
+    "支持一键下载新版"
   ]
 }
