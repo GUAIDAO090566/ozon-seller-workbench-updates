@@ -1,11 +1,13 @@
 {
-  "version": "2.6.1",
-  "download_url": "https://github.com/GUAIDAO090566/ozon-seller-workbench-updates/releases/download/v2.6.1/Ozon_Seller_._v2.6.1_.zip",
+  "version": "2.7.0",
+  "download_url": "https://github.com/GUAIDAO090566/ozon-seller-workbench-updates/releases/download/v2.7.0/OzonSellerExtension_v2.7.0_DesktopManager.zip",
+  "sha256": "cf9235e927bf113a77f6a9790c018efb36ec8c7b9b1fc2e2e4e4dec50452f4dd",
+  "min_manager_version": "1.0.0",
   "published_at": "2026-10-06",
   "notes": [
-    "新增免费更新中心",
-    "支持 GitHub 检查新版本",
-    "支持更新日志",
-    "支持一键下载新版"
+    "首个桌面管理器专用正式 Chrome 扩展包",
+    "移除插件内部更新逻辑",
+    "保留退货侧边聊天、翻译、话术、摘要和消息提醒",
+    "升级不会清除既有用户设置"
   ]
 }
